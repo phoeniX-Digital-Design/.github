@@ -18,7 +18,6 @@ We are passionate about exploring new ideas and developing cutting-edge solution
 
 Our current projects are centered around microprocessor design, specifically focusing on the implementation of the open Instruction Set Architecture, [RISC-V](https://riscv.org/), from RTL to physical design and layout.
 You can search through repositories and see our related projects in the mentioned fields.
-
 We actively maintain and update our projects to ensure their quality, reliability, and compatibility with the latest advancements in the field. 
 Contributions and collaborations from the open-source community are highly encouraged and welcomed.
 </div>
