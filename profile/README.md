@@ -14,11 +14,12 @@ Contributions and collaborations from the open-source community are highly encou
 ### Get Involved
 We believe in the power of collaboration and the collective intelligence of the community. 
 If you share our passion for computer architecture, digital design, and CPU design, we invite you to get involved with phoeniX. 
+
 Here are some ways you can contribute:
 - Contribute to Projects: Fork our repositories, make improvements, and submit pull requests. Your contributions will be greatly appreciated.
 - Report Issues: If you encounter any issues or have suggestions for improvements, please open an issue on the relevant project repository. We value your feedback.
 - Collaborate: If you are interested in collaborating on research or projects, feel free to reach out to us. We are open to partnerships and joint initiatives.
-- 
+
 ### Contact
 To get in touch with the phoeniX team, you can reach us via:
 - Email: phoeniX.Digital.Electronics@gmail.com
