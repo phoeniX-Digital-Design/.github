@@ -3,7 +3,7 @@
 <div align="justify">
   
 Welcome to **phoeniX**, an organization dedicated to advancing the field of computer architecture, digital design, and microprocessor design. 
-Based at the Iran University of Science and Technology, [Electronics Research Center](http://erc.iust.ac.ir/), we are a team of researchers committed to driving innovation in these domains.
+Based at the [Electronics Research Center](http://erc.iust.ac.ir/) of Iran University of Science and Technology, we are a team of researchers committed to driving innovation in these domains.
 </div>
 
 ## About Us
