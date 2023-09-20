@@ -2,7 +2,7 @@
 ===============
 <div align="justify">
   
-Welcome to **phoeniX**, an organization dedicated to advancing the field of computer architecture, digital design, and CPU design. 
+Welcome to **phoeniX**, an organization dedicated to advancing the field of computer architecture, digital design, and microprocessor design. 
 Based at the Iran University of Science and Technology, [Electronics Research Center](http://erc.iust.ac.ir/), we are a team of researchers committed to driving innovation in these domains.
 </div>
 
@@ -10,13 +10,13 @@ Based at the Iran University of Science and Technology, [Electronics Research Ce
 <div align="justify">
   
 phoeniX is a research organization based at the Iran University of Science and Technology, specializing in computer architecture, digital design, and CPU design. 
-We are passionate about exploring new ideas and developing cutting-edge solutions in these fields.
+We are passionate about exploring new ideas and developing cutting-edge solutions in these fields. phoeniX team projects are freely available and open-source, providing accessibility to individuals interested in digital electronics, computer science and VLSI. The project repositories are equipped with thorough documentation, user manuals, and detailed information, facilitating user-friendly navigation and ease of use.
 </div>
 
 ## Projects
 <div align="justify">
 
-Our current projects are centered around microprocessor design, specifically focusing on the implementation of the open Instruction Set Architecture, RISC-V, from RTL to physical design and layout.
+Our current projects are centered around microprocessor design, specifically focusing on the implementation of the open Instruction Set Architecture, [RISC-V](https://riscv.org/), from RTL to physical design and layout.
 You can search through repositories and see our related projects in the mentioned fields.
 
 We actively maintain and update our projects to ensure their quality, reliability, and compatibility with the latest advancements in the field. 
