@@ -11,7 +11,6 @@ Based at the Iran University of Science and Technology, [Electronics Research Ce
   
 phoeniX is a research organization based at the Iran University of Science and Technology, specializing in computer architecture, digital design, and CPU design. 
 We are passionate about exploring new ideas and developing cutting-edge solutions in these fields.
-
 </div>
 
 ### Projects
@@ -19,7 +18,6 @@ We are passionate about exploring new ideas and developing cutting-edge solution
   
 We actively maintain and update our projects to ensure their quality, reliability, and compatibility with the latest advancements in the field. 
 Contributions and collaborations from the open-source community are highly encouraged and welcomed.
-
 </div>
 
 ### Get Involved
@@ -27,7 +25,6 @@ Contributions and collaborations from the open-source community are highly encou
 
 We believe in the power of collaboration and the collective intelligence of the community. 
 If you share our passion for computer architecture, digital design, and CPU design, we invite you to get involved with phoeniX. 
-
 </div>
 
 Here are some ways you can contribute:
@@ -40,13 +37,12 @@ Here are some ways you can contribute:
 
   To get in touch with the phoeniX team, you can reach us via:
 - Email: phoeniX.Digital.Electronics@gmail.com
-We look forward to connecting with individuals and organizations who share our enthusiasm for computer architecture and digital design.
 
+We look forward to connecting with individuals and organizations who share our enthusiasm for computer architecture and digital design.
 </div>
 
 ### License
 <div align="justify">
 
 Unless otherwise specified, all projects and resources within the phoeniX organization are licensed under the [GNU V3.0 license](https://en.wikipedia.org/wiki/GNU_General_Public_License). Please refer to individual project repositories for specific licensing details.
-
 </div>
