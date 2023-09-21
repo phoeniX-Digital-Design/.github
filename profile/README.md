@@ -1,4 +1,4 @@
-<img src="https://github.com/ArvinDelavari/phoeniX-RV32/blob/%F0%9F%94%A7-execution-flow/Documents/Images/phoenix_logotype_bb_transparent.png" alt="Image" width="320" height="150" style="vertical-align:middle"> Organization
+<img src="https://github.com/ArvinDelavari/phoeniX-RV32/blob/%F0%9F%94%A7-execution-flow/Documents/Images/phoenix_logotype_bb_transparent.png" alt="Image" width="320" height="150" style="vertical-align:middle"> 
 ===============
 <div align="justify">
   
