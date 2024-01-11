@@ -5,15 +5,15 @@
 
 <div align="justify">
   
-Welcome to **phoeniX**, an organization dedicated to advancing the field of computer architecture, digital design, and microprocessor design. 
+Welcome to **phoeniX**, a research team dedicated to advancing the field of computer architecture, digital design, and microprocessor design. 
 Based at the [Electronics Research Center](http://erc.iust.ac.ir/) of Iran University of Science and Technology, we are a team of researchers committed to driving innovation in these domains.
 </div>
 
 ## About Us
 <div align="justify">
   
-phoeniX is a research organization based at the Iran University of Science and Technology, specializing in computer architecture, digital design, and CPU design. 
-We are passionate about exploring new ideas and developing cutting-edge solutions in these fields. phoeniX team projects are freely available and open-source, providing accessibility to individuals interested in digital electronics, computer science and VLSI. The project repositories are equipped with thorough documentation, user manuals, and detailed information, facilitating user-friendly navigation and ease of use.
+phoeniX is a research team based at the Iran University of Science and Technology, specializing in computer architecture, high-performance computing, approximate computing, digital design, and CPU design. 
+We are passionate about exploring new ideas and developing cutting-edge solutions in these fields. The phoeniX team projects are freely available and open-source, providing accessibility to individuals interested in digital electronics, computer science and VLSI. The project repositories are equipped with thorough documentation, user manuals, and detailed information, facilitating user-friendly navigation and ease of use.
 </div>
 
 ## Projects
